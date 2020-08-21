@@ -1,0 +1,57 @@
+2020-06-03 04:30:01,083 INFO 6736 [Timer] E:\lijianslearn\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 86398918ms at 2020-06-04 04:30:00.001
+2020-06-03 04:30:01,306 INFO 4472 [Job#159112980100567357012001786] E:\lijianslearn\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js executing by app
+2020-06-03 04:30:01,706 INFO 4472 [Job#159112980100567357012001786] E:\lijianslearn\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js execute succeed, used 387ms
+2020-06-03 16:26:25,668 INFO 18036 [egg-schedule]: register schedule E:\lijianslearn\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-03 16:26:25,668 INFO 18036 [egg-schedule]: register schedule E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-03 16:26:25,668 INFO 18036 [egg-schedule]: register schedule E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-03 16:26:26,672 INFO 20332 [Timer] E:\lijianslearn\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 43413331ms at 2020-06-04 04:30:00.003
+2020-06-03 16:26:26,672 INFO 20332 [Timer] E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 27213328ms at 2020-06-04 00:00:00.000
+2020-06-03 16:26:26,673 INFO 20332 [Timer] E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 27214328ms at 2020-06-04 00:00:01.001
+2020-08-20 16:38:03,441 INFO 11908 [egg-schedule]: register schedule E:\lijianslearn\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-20 16:38:03,441 INFO 11908 [egg-schedule]: register schedule E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-08-20 16:38:03,441 INFO 11908 [egg-schedule]: register schedule E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-20 16:38:04,118 INFO 13568 [Timer] E:\lijianslearn\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 42715919ms at 2020-08-21 04:30:00.037
+2020-08-20 16:38:04,118 INFO 13568 [Timer] E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 26515882ms at 2020-08-21 00:00:00.000
+2020-08-20 16:38:04,118 INFO 13568 [Timer] E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 26516882ms at 2020-08-21 00:00:01.000
+2020-08-20 16:50:01,086 INFO 10300 [egg-schedule]: register schedule E:\lijianslearn\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-20 16:50:01,086 INFO 10300 [egg-schedule]: register schedule E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-08-20 16:50:01,086 INFO 10300 [egg-schedule]: register schedule E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-20 16:50:19,730 INFO 8728 [egg-schedule]: register schedule E:\lijianslearn\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-20 16:50:19,730 INFO 8728 [egg-schedule]: register schedule E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-08-20 16:50:19,730 INFO 8728 [egg-schedule]: register schedule E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-20 16:50:51,657 INFO 13996 [egg-schedule]: register schedule E:\lijianslearn\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-20 16:50:51,658 INFO 13996 [egg-schedule]: register schedule E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-08-20 16:50:51,658 INFO 13996 [egg-schedule]: register schedule E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-20 17:03:59,517 INFO 14576 [egg-schedule]: register schedule E:\lijianslearn\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-20 17:03:59,517 INFO 14576 [egg-schedule]: register schedule E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-08-20 17:03:59,517 INFO 14576 [egg-schedule]: register schedule E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-20 17:03:59,910 INFO 11236 [Timer] E:\lijianslearn\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 41160092ms at 2020-08-21 04:30:00.002
+2020-08-20 17:03:59,910 INFO 11236 [Timer] E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 24960090ms at 2020-08-21 00:00:00.000
+2020-08-20 17:03:59,911 INFO 11236 [Timer] E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 24961090ms at 2020-08-21 00:00:01.001
+2020-08-20 17:21:54,237 INFO 12708 [Timer] E:\lijianslearn\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 40085766ms at 2020-08-21 04:30:00.003
+2020-08-20 17:21:54,237 INFO 12708 [Timer] E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 23885763ms at 2020-08-21 00:00:00.000
+2020-08-20 17:21:54,237 INFO 12708 [Timer] E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 23886763ms at 2020-08-21 00:00:01.000
+2020-08-20 17:21:53,847 INFO 9076 [egg-schedule]: register schedule E:\lijianslearn\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-20 17:21:53,847 INFO 9076 [egg-schedule]: register schedule E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-08-20 17:21:53,847 INFO 9076 [egg-schedule]: register schedule E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-20 17:30:44,510 INFO 11868 [egg-schedule]: register schedule E:\lijianslearn\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-20 17:30:44,510 INFO 11868 [egg-schedule]: register schedule E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-08-20 17:30:44,510 INFO 11868 [egg-schedule]: register schedule E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-20 17:31:15,711 INFO 11328 [egg-schedule]: register schedule E:\lijianslearn\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-20 17:31:15,711 INFO 11328 [egg-schedule]: register schedule E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-08-20 17:31:15,711 INFO 11328 [egg-schedule]: register schedule E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-20 17:31:16,076 INFO 13156 [Timer] E:\lijianslearn\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 39523927ms at 2020-08-21 04:30:00.003
+2020-08-20 17:31:16,076 INFO 13156 [Timer] E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 23323924ms at 2020-08-21 00:00:00.000
+2020-08-20 17:31:16,076 INFO 13156 [Timer] E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 23324924ms at 2020-08-21 00:00:01.000
+2020-08-20 17:39:40,222 INFO 9800 [egg-schedule]: register schedule E:\lijianslearn\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-20 17:39:40,222 INFO 9800 [egg-schedule]: register schedule E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-08-20 17:39:40,222 INFO 9800 [egg-schedule]: register schedule E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-20 17:42:30,267 INFO 12932 [egg-schedule]: register schedule E:\lijianslearn\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-20 17:42:30,267 INFO 12932 [egg-schedule]: register schedule E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-08-20 17:42:30,267 INFO 12932 [egg-schedule]: register schedule E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-21 00:00:00,571 INFO 13156 [Timer] E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 86399436ms at 2020-08-22 00:00:00.007
+2020-08-21 00:00:00,565 INFO 12932 [Job#15979392005633111303691298311] E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js executing by app
+2020-08-21 00:00:00,802 INFO 12932 [Job#15979392005633111303691298311] E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js execute succeed, used 235ms
+2020-08-21 00:00:01,570 INFO 13156 [Timer] E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 86399437ms at 2020-08-22 00:00:01.007
+2020-08-21 00:00:01,563 INFO 12932 [Job#15979392015633111313686211561] E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js executing by app
+2020-08-21 00:00:01,578 INFO 12932 [Job#15979392015633111313686211561] E:\lijianslearn\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js execute succeed, used 14ms

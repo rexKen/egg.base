@@ -1,0 +1,153 @@
+2020-06-03 16:26:26,639 INFO 18036 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2020-08-20 16:38:04,068 INFO 11908 [egg-sequelize](0ms) Executed (default): SELECT 1+1 AS result
+2020-08-20 16:38:48,620 ERROR 11908 [-/127.0.0.1/-/26ms GET /news] nodejs.Template render error: (E:\lijianslearn\egg-example\app\view\news\list.tpl) [Line 14, Column 26]
+  Error: Unable to call `helper["relativeTime"]`, which is not a function
+  Error: Unable to call `helper["relativeTime"]`, which is not a function
+    at Object._prettifyError (E:\lijianslearn\egg-example\node_modules\nunjucks\src\lib.js:36:11)
+    at E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:561:19
+    at Template.root [as rootRenderFunc] (eval at _compile (E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:631:18), <anonymous>:43:3)
+    at Template.render (E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:550:10)
+    at E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:364:27
+    at createTemplate (E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:313:9)
+    at handle (E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:325:11)
+    at E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:337:9
+    at next (E:\lijianslearn\egg-example\node_modules\nunjucks\src\lib.js:280:7)
+    at Object.asyncIter (E:\lijianslearn\egg-example\node_modules\nunjucks\src\lib.js:286:3)
+    at NunjucksEnvironment.getTemplate (E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:319:9)
+    at NunjucksEnvironment.render (E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:358:10)
+    at Promise (E:\lijianslearn\egg-example\node_modules\egg-view-nunjucks\lib\view.js:13:25)
+    at new Promise (<anonymous>)
+    at NunjucksView.render (E:\lijianslearn\egg-example\node_modules\egg-view-nunjucks\lib\view.js:12:12)
+    at ContextView.[contextView#render] (E:\lijianslearn\egg-example\node_modules\egg-view\lib\context_view.js:70:23)
+name: "Template render error"
+pid: 11908
+hostname: pc-PC
+
+2020-08-20 16:39:11,296 INFO 11908 [egg-sequelize](254ms) Executed (default): SELECT `userid`, `username`, `sex`, `userpass` FROM `user` AS `user`;
+2020-08-20 16:48:34,836 INFO 11908 [egg-sequelize](2ms) Executed (default): SELECT `userid`, `username`, `sex`, `userpass` FROM `user` AS `user`;
+2020-08-20 16:49:43,656 ERROR 11908 [-/127.0.0.1/-/9ms GET /news] nodejs.Template render error: (E:\lijianslearn\egg-example\app\view\news\list.tpl) [Line 14, Column 26]
+  Error: Unable to call `helper["relativeTime"]`, which is not a function
+  Error: Unable to call `helper["relativeTime"]`, which is not a function
+    at Object._prettifyError (E:\lijianslearn\egg-example\node_modules\nunjucks\src\lib.js:36:11)
+    at E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:561:19
+    at Template.root [as rootRenderFunc] (eval at _compile (E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:631:18), <anonymous>:43:3)
+    at Template.render (E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:550:10)
+    at E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:364:27
+    at createTemplate (E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:313:9)
+    at handle (E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:325:11)
+    at E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:337:9
+    at next (E:\lijianslearn\egg-example\node_modules\nunjucks\src\lib.js:280:7)
+    at Object.asyncIter (E:\lijianslearn\egg-example\node_modules\nunjucks\src\lib.js:286:3)
+    at NunjucksEnvironment.getTemplate (E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:319:9)
+    at NunjucksEnvironment.render (E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:358:10)
+    at Promise (E:\lijianslearn\egg-example\node_modules\egg-view-nunjucks\lib\view.js:13:25)
+    at new Promise (<anonymous>)
+    at NunjucksView.render (E:\lijianslearn\egg-example\node_modules\egg-view-nunjucks\lib\view.js:12:12)
+    at ContextView.[contextView#render] (E:\lijianslearn\egg-example\node_modules\egg-view\lib\context_view.js:70:23)
+name: "Template render error"
+pid: 11908
+hostname: pc-PC
+
+2020-08-20 16:50:01,437 INFO 10300 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2020-08-20 16:50:20,079 INFO 8728 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2020-08-20 16:50:22,879 ERROR 8728 [-/127.0.0.1/-/35ms GET /news] nodejs.Template render error: (E:\lijianslearn\egg-example\app\view\news\list.tpl) [Line 14, Column 26]
+  Error: Unable to call `helper["relativeTime"]`, which is not a function
+  Error: Unable to call `helper["relativeTime"]`, which is not a function
+    at Object._prettifyError (E:\lijianslearn\egg-example\node_modules\nunjucks\src\lib.js:36:11)
+    at E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:561:19
+    at Template.root [as rootRenderFunc] (eval at _compile (E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:631:18), <anonymous>:43:3)
+    at Template.render (E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:550:10)
+    at E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:364:27
+    at createTemplate (E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:313:9)
+    at handle (E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:325:11)
+    at E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:337:9
+    at next (E:\lijianslearn\egg-example\node_modules\nunjucks\src\lib.js:280:7)
+    at Object.asyncIter (E:\lijianslearn\egg-example\node_modules\nunjucks\src\lib.js:286:3)
+    at NunjucksEnvironment.getTemplate (E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:319:9)
+    at NunjucksEnvironment.render (E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:358:10)
+    at Promise (E:\lijianslearn\egg-example\node_modules\egg-view-nunjucks\lib\view.js:13:25)
+    at new Promise (<anonymous>)
+    at NunjucksView.render (E:\lijianslearn\egg-example\node_modules\egg-view-nunjucks\lib\view.js:12:12)
+    at ContextView.[contextView#render] (E:\lijianslearn\egg-example\node_modules\egg-view\lib\context_view.js:70:23)
+name: "Template render error"
+pid: 8728
+hostname: pc-PC
+
+2020-08-20 16:50:51,993 INFO 13996 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2020-08-20 17:03:59,896 INFO 14576 [egg-sequelize](0ms) Executed (default): SELECT 1+1 AS result
+2020-08-20 17:21:11,480 ERROR 14576 [-/127.0.0.1/-/27ms GET /news] nodejs.Template render error: (E:\lijianslearn\egg-example\app\view\news\list.tpl) [Line 14, Column 29]
+  Error: Unable to call `helper["relativeTime"]`, which is not a function
+  Error: Unable to call `helper["relativeTime"]`, which is not a function
+    at Object._prettifyError (E:\lijianslearn\egg-example\node_modules\nunjucks\src\lib.js:36:11)
+    at E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:561:19
+    at Template.root [as rootRenderFunc] (eval at _compile (E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:631:18), <anonymous>:43:3)
+    at Template.render (E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:550:10)
+    at E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:364:27
+    at createTemplate (E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:313:9)
+    at handle (E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:325:11)
+    at E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:337:9
+    at next (E:\lijianslearn\egg-example\node_modules\nunjucks\src\lib.js:280:7)
+    at Object.asyncIter (E:\lijianslearn\egg-example\node_modules\nunjucks\src\lib.js:286:3)
+    at NunjucksEnvironment.getTemplate (E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:319:9)
+    at NunjucksEnvironment.render (E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:358:10)
+    at Promise (E:\lijianslearn\egg-example\node_modules\egg-view-nunjucks\lib\view.js:13:25)
+    at new Promise (<anonymous>)
+    at NunjucksView.render (E:\lijianslearn\egg-example\node_modules\egg-view-nunjucks\lib\view.js:12:12)
+    at ContextView.[contextView#render] (E:\lijianslearn\egg-example\node_modules\egg-view\lib\context_view.js:70:23)
+name: "Template render error"
+pid: 14576
+hostname: pc-PC
+
+2020-08-20 17:21:54,221 INFO 9076 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2020-08-20 17:25:24,295 ERROR 9076 [-/127.0.0.1/-/46ms GET /news] nodejs.Template render error: (E:\lijianslearn\egg-example\app\view\news\list.tpl) [Line 14, Column 29]
+  Error: Unable to call `helper["relativeTime"]`, which is not a function
+  Error: Unable to call `helper["relativeTime"]`, which is not a function
+    at Object._prettifyError (E:\lijianslearn\egg-example\node_modules\nunjucks\src\lib.js:36:11)
+    at E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:561:19
+    at Template.root [as rootRenderFunc] (eval at _compile (E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:631:18), <anonymous>:43:3)
+    at Template.render (E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:550:10)
+    at E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:364:27
+    at createTemplate (E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:313:9)
+    at handle (E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:325:11)
+    at E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:337:9
+    at next (E:\lijianslearn\egg-example\node_modules\nunjucks\src\lib.js:280:7)
+    at Object.asyncIter (E:\lijianslearn\egg-example\node_modules\nunjucks\src\lib.js:286:3)
+    at NunjucksEnvironment.getTemplate (E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:319:9)
+    at NunjucksEnvironment.render (E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:358:10)
+    at Promise (E:\lijianslearn\egg-example\node_modules\egg-view-nunjucks\lib\view.js:13:25)
+    at new Promise (<anonymous>)
+    at NunjucksView.render (E:\lijianslearn\egg-example\node_modules\egg-view-nunjucks\lib\view.js:12:12)
+    at ContextView.[contextView#render] (E:\lijianslearn\egg-example\node_modules\egg-view\lib\context_view.js:70:23)
+name: "Template render error"
+pid: 9076
+hostname: pc-PC
+
+2020-08-20 17:30:44,855 INFO 11868 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2020-08-20 17:30:51,864 ERROR 11868 [-/127.0.0.1/-/36ms GET /news] nodejs.Template render error: (E:\lijianslearn\egg-example\app\view\news\list.tpl) [Line 14, Column 29]
+  Error: Unable to call `helper["relativeTime"]`, which is undefined or falsey
+  Error: Unable to call `helper["relativeTime"]`, which is undefined or falsey
+    at Object._prettifyError (E:\lijianslearn\egg-example\node_modules\nunjucks\src\lib.js:36:11)
+    at E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:561:19
+    at Template.root [as rootRenderFunc] (eval at _compile (E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:631:18), <anonymous>:43:3)
+    at Template.render (E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:550:10)
+    at E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:364:27
+    at createTemplate (E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:313:9)
+    at handle (E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:325:11)
+    at E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:337:9
+    at next (E:\lijianslearn\egg-example\node_modules\nunjucks\src\lib.js:280:7)
+    at Object.asyncIter (E:\lijianslearn\egg-example\node_modules\nunjucks\src\lib.js:286:3)
+    at NunjucksEnvironment.getTemplate (E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:319:9)
+    at NunjucksEnvironment.render (E:\lijianslearn\egg-example\node_modules\nunjucks\src\environment.js:358:10)
+    at Promise (E:\lijianslearn\egg-example\node_modules\egg-view-nunjucks\lib\view.js:13:25)
+    at new Promise (<anonymous>)
+    at NunjucksView.render (E:\lijianslearn\egg-example\node_modules\egg-view-nunjucks\lib\view.js:12:12)
+    at ContextView.[contextView#render] (E:\lijianslearn\egg-example\node_modules\egg-view\lib\context_view.js:70:23)
+name: "Template render error"
+pid: 11868
+hostname: pc-PC
+
+2020-08-20 17:31:16,058 INFO 11328 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2020-08-20 17:36:16,643 INFO 11328 [egg-sequelize](1ms) Executed (default): SELECT `userid`, `username`, `sex`, `userpass` FROM `user` AS `user`;
+2020-08-20 17:39:40,581 INFO 9800 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2020-08-20 17:41:30,035 INFO 9800 [egg-sequelize](2ms) Executed (default): SELECT `userid`, `username`, `sex`, `userpass` FROM `user` AS `user`;
+2020-08-20 17:42:30,623 INFO 12932 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result

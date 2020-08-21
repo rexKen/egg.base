@@ -1,0 +1,3 @@
+2020-08-21 04:30:00,956 INFO 12932 [Job#15979554009563273303701498921] E:\lijianslearn\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js executing by app
+2020-08-21 04:30:00,963 INFO 12932 [Job#15979554009563273303701498921] E:\lijianslearn\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js execute succeed, used 7ms
+2020-08-21 04:30:00,963 INFO 13156 [Timer] E:\lijianslearn\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 86399044ms at 2020-08-22 04:30:00.007

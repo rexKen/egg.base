@@ -1,0 +1,297 @@
+{
+  "keys": "E:\\lijianslearn\\egg-example\\config\\config.default.js",
+  "middleware": "E:\\lijianslearn\\egg-example\\config\\config.default.js",
+  "errorHandler": {
+    "match": "E:\\lijianslearn\\egg-example\\config\\config.default.js"
+  },
+  "forbidIp": {
+    "forbidips": "E:\\lijianslearn\\egg-example\\config\\config.default.js"
+  },
+  "security": {
+    "csrf": {
+      "enable": "E:\\lijianslearn\\egg-example\\config\\config.default.js",
+      "type": "E:\\lijianslearn\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "E:\\lijianslearn\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "E:\\lijianslearn\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "E:\\lijianslearn\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "E:\\lijianslearn\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "E:\\lijianslearn\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "E:\\lijianslearn\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "E:\\lijianslearn\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "E:\\lijianslearn\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "domainWhiteList": "E:\\lijianslearn\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "E:\\lijianslearn\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "E:\\lijianslearn\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "E:\\lijianslearn\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\lijianslearn\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "E:\\lijianslearn\\egg-example\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "E:\\lijianslearn\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "E:\\lijianslearn\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "E:\\lijianslearn\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "E:\\lijianslearn\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "E:\\lijianslearn\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "E:\\lijianslearn\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "E:\\lijianslearn\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\lijianslearn\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "E:\\lijianslearn\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\lijianslearn\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "E:\\lijianslearn\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "E:\\lijianslearn\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "E:\\lijianslearn\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "E:\\lijianslearn\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "view": {
+    "defaultViewEngine": "E:\\lijianslearn\\egg-example\\config\\config.default.js",
+    "mapping": {
+      ".tpl": "E:\\lijianslearn\\egg-example\\config\\config.default.js"
+    },
+    "root": "E:\\lijianslearn\\egg-example\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "E:\\lijianslearn\\egg-example\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "E:\\lijianslearn\\egg-example\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "sequelize": {
+    "dialect": "E:\\lijianslearn\\egg-example\\config\\config.default.js",
+    "host": "E:\\lijianslearn\\egg-example\\config\\config.default.js",
+    "port": "E:\\lijianslearn\\egg-example\\config\\config.default.js",
+    "database": "E:\\lijianslearn\\egg-example\\config\\config.default.js",
+    "username": "E:\\lijianslearn\\egg-example\\config\\config.default.js",
+    "password": "E:\\lijianslearn\\egg-example\\config\\config.default.js"
+  },
+  "ADMIN_PATH": "E:\\lijianslearn\\egg-example\\config\\config.default.js",
+  "session": {
+    "maxAge": "E:\\lijianslearn\\egg-example\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "E:\\lijianslearn\\egg-example\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "E:\\lijianslearn\\egg-example\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "E:\\lijianslearn\\egg-example\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "E:\\lijianslearn\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "E:\\lijianslearn\\egg-example\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "E:\\lijianslearn\\egg-example\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "E:\\lijianslearn\\egg-example\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "E:\\lijianslearn\\egg-example\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "E:\\lijianslearn\\egg-example\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "E:\\lijianslearn\\egg-example\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "E:\\lijianslearn\\egg-example\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "E:\\lijianslearn\\egg-example\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "E:\\lijianslearn\\egg-example\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "E:\\lijianslearn\\egg-example\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "E:\\lijianslearn\\egg-example\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "E:\\lijianslearn\\egg-example\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "E:\\lijianslearn\\egg-example\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "E:\\lijianslearn\\egg-example\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "E:\\lijianslearn\\egg-example\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "E:\\lijianslearn\\egg-example\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "E:\\lijianslearn\\egg-example\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "E:\\lijianslearn\\egg-example\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "E:\\lijianslearn\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "E:\\lijianslearn\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "E:\\lijianslearn\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "E:\\lijianslearn\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "E:\\lijianslearn\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "E:\\lijianslearn\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "E:\\lijianslearn\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "E:\\lijianslearn\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "E:\\lijianslearn\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "E:\\lijianslearn\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "E:\\lijianslearn\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "E:\\lijianslearn\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "E:\\lijianslearn\\egg-example\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "E:\\lijianslearn\\egg-example\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "E:\\lijianslearn\\egg-example\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "E:\\lijianslearn\\egg-example\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "E:\\lijianslearn\\egg-example\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "E:\\lijianslearn\\egg-example\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "E:\\lijianslearn\\egg-example\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "E:\\lijianslearn\\egg-example\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "E:\\lijianslearn\\egg-example\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "E:\\lijianslearn\\egg-example\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "E:\\lijianslearn\\egg-example\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "E:\\lijianslearn\\egg-example\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "E:\\lijianslearn\\egg-example\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "E:\\lijianslearn\\egg-example\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "E:\\lijianslearn\\egg-example\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "E:\\lijianslearn\\egg-example\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "E:\\lijianslearn\\egg-example\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "E:\\lijianslearn\\egg-example\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "E:\\lijianslearn\\egg-example\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "throwOnUndefined": "E:\\lijianslearn\\egg-example\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "trimBlocks": "E:\\lijianslearn\\egg-example\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "lstripBlocks": "E:\\lijianslearn\\egg-example\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "cache": "E:\\lijianslearn\\egg-example\\node_modules\\egg-view-nunjucks\\config\\config.local.js"
+  },
+  "cors": "E:\\lijianslearn\\egg-example\\node_modules\\egg-cors\\config\\config.default.js",
+  "validate": "E:\\lijianslearn\\egg-example\\node_modules\\egg-validate\\config\\config.default.js",
+  "env": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "name": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "cookies": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "version": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "description": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "main": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "scripts": {
+      "dev": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "license": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "dependencies": {
+      "egg": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "egg-cors": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "egg-mysql": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "egg-sequelize": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "egg-validate": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "egg-view-nunjucks": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "moment": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "mysql2": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "strict": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "depth": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js"
+    },
+    "onerror": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "env": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "level": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "logging": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "port": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "E:\\lijianslearn\\egg-example\\node_modules\\egg\\config\\config.default.js"
+}
